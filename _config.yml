@@ -1,8 +1,8 @@
 title: Jonah Turner
-description: A personal website using the Just the Docs theme
+description: Blog
 theme: just-the-docs
 
 url: https://drexalt.com
 
-aux_links:
-  Template Repository: https://github.com/drexalt/drexalt.github.io
+# aux_links:
+#  Template Repository: https://github.com/drexalt/drexalt.github.io
